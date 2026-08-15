@@ -8,11 +8,12 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Developer;Telegram+Automation;Backend+Development;Building+real+projects" />
 
-<br>
+<br><br>
 
 <a href="https://github.com/egorceredov-crypto">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
 <a href="https://t.me/pEgorPython">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
@@ -25,9 +26,7 @@
 
 Python-разработчик, занимаюсь автоматизацией и созданием прикладных программных решений.
 
-Разрабатываю Telegram-ботов, backend-сервисы, парсеры, API-интеграции и инструменты для автоматизации рабочих процессов.
-
-Основной фокус — создавать не отдельные скрипты, а полноценные решения, которые можно использовать в реальных задачах.
+Разрабатываю Telegram-ботов, backend-сервисы, парсеры, API-интеграции и web-инструменты.
 
 ---
 
@@ -81,18 +80,6 @@ Python · Aiogram 3 · BeautifulSoup4 · SQLAlchemy · SQLite
 - сравнение цен
 - хранение данных
 - Telegram-интерфейс
-
-[Открыть репозиторий →](https://github.com/egorceredov-crypto/telegram-cpa-bot)
-
----
-
-### Telegram CPA Bot
-
-Telegram-проект с автоматизацией взаимодействия с пользователями и партнёрскими инструментами.
-
-Python · Aiogram · Asyncio · SQLite
-
-[Открыть репозиторий →](https://github.com/egorceredov-crypto/telegram-cpa-bot)
 
 ---
 
