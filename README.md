@@ -20,3 +20,16 @@
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white" />
   <img src="https://img.shields.io/badge/BeautifulSoup-59666C?style=flat" />
 </p>
+---
+
+## Featured Project
+
+### Client Finder
+
+Система автоматизации поиска потенциальных клиентов по ключевым словам.
+
+Поиск → сбор данных → обработка → фильтрация → получение релевантных контактов.
+
+Стек: Python · Asyncio · API · Web Scraping · Database · Telegram
+
+[Открыть проект →](ССЫЛКА_НА_ТВОЙ_РЕПОЗИТОРИЙ)
