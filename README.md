@@ -33,3 +33,34 @@
 Стек: Python · Asyncio · API · Web Scraping · Database · Telegram
 
 [Открыть проект →](ССЫЛКА_НА_ТВОЙ_РЕПОЗИТОРИЙ)
+---
+
+## Other Projects
+
+| Проект | Описание | Стек |
+|---|---|---|
+| Barber Shop | Автоматизация записи клиентов | Python · Aiogram · SQLAlchemy |
+| PriceMaster | Сравнение цен между магазинами | Python · BeautifulSoup · SQLite |
+| Telegram CPA Bot | Telegram-автоматизация | Python · Aiogram |
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=egorceredov-crypto&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" width="500"/>
+</p>
+
+---
+
+## Contact
+
+<p align="center">
+  <a href="https://github.com/egorceredov-crypto">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <a href="https://t.me/pEgorPython">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</p>
