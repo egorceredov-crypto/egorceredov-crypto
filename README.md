@@ -1,136 +1,114 @@
 <div align="center">
 
-<h1>Егор Чередов</h1>
+# Егор Чередов
 
-<p>
-  Python Developer · Automation · Backend · SaaS
-</p>
+**Python Developer · Backend · Automation · SaaS**
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Developer;Telegram+Automation;Backend+Development;SaaS+Development;Building+real+projects" />
-
-<br><br>
-
-<a href="https://github.com/egorceredov-crypto">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://t.me/pEgorPython">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
+[GitHub](https://github.com/egorceredov-crypto) · [Telegram](https://t.me/pEgorPython)
 
 </div>
 
 ---
 
-## О себе
+## About
 
-Python-разработчик, занимаюсь автоматизацией, backend-разработкой и созданием прикладных программных решений.
+Python developer focused on backend development, automation and building production-oriented software.
 
-Разрабатываю Telegram-ботов, SaaS-сервисы, backend-системы, парсеры, API-интеграции и web-инструменты.
+I build Telegram bots, SaaS products, automation systems, parsers, API integrations and web services.
 
-Основной фокус — создание реальных продуктов, которые автоматизируют процессы и сокращают количество ручной работы.
-
----
-
-## Технологии
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,html,css,js,sqlite,git,github,linux,figma,docker" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Aiogram-2CA5E0?style=flat&logo=telegram&logoColor=white" />
-<img src="https://img.shields.io/badge/Telethon-2CA5E0?style=flat&logo=telegram&logoColor=white" />
-<img src="https://img.shields.io/badge/Asyncio-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white" />
-<img src="https://img.shields.io/badge/BeautifulSoup-59666C?style=flat" />
-<img src="https://img.shields.io/badge/REST_API-005571?style=flat" />
-
-</div>
+My main focus is turning real-world processes into reliable software solutions.
 
 ---
 
-# 🚀 Главный проект
+## Tech Stack
+
+**Languages**
+
+Python · JavaScript · HTML · CSS
+
+**Backend**
+
+FastAPI · Aiogram 3 · Telethon · Asyncio
+
+**Data**
+
+SQLAlchemy · SQLite · PostgreSQL
+
+**Tools & Infrastructure**
+
+Git · GitHub · Docker · Linux · REST API
+
+---
+
+# Featured Project
 
 ## Lead Radar PRO
 
-**SaaS-сервис для автоматического поиска потенциальных клиентов в Telegram.**
+**Telegram SaaS for automated lead discovery and monitoring.**
 
-Lead Radar PRO помогает находить подходящие клиентские запросы по ключевым словам и категориям, автоматически обрабатывать найденные сообщения и получать новые лиды.
+A software platform designed to help businesses discover potential customers in Telegram based on keywords and search categories.
 
-**Python · Aiogram 3 · Telethon · FastAPI · SQLAlchemy · SQLite · Docker**
+The project combines Telegram Bot API, Telethon, backend services, database infrastructure and a web interface into a single system.
 
-### Возможности
+### Core functionality
 
-- 🔍 автоматический поиск потенциальных клиентов
-- 🎯 поиск по ключевым словам и категориям
-- 📡 мониторинг Telegram
-- 🤖 автоматическая обработка найденных сообщений
-- 📊 система результатов и истории
-- 🔔 уведомления о новых лидах
-- 💳 система тарифов и подписок
-- 💰 обработка платежей
-- 🎁 реферальная система
-- ⚙️ административная панель
-- 🌐 web-интерфейс
-- 🔐 серверная авторизация Telethon
-- 🐳 подготовка к серверному развёртыванию
+- Automated lead discovery
+- Keyword and category-based search
+- Telegram monitoring
+- Lead filtering and processing
+- Subscription and tariff system
+- Payment processing
+- Referral system
+- Lead notifications
+- Administration panel
+- Web interface
+- Telethon-based Telegram account integration
+- Server deployment
 
-### Архитектура
+**Stack:** Python · Aiogram 3 · Telethon · FastAPI · SQLAlchemy · SQLite · Docker
 
-Проект объединяет Telegram Bot API, Telethon Userbot, backend-компоненты, базу данных и web-интерфейс в единую систему.
-
-[Открыть репозиторий →](https://github.com/egorceredov-crypto/lead-radar-pro)
+[View repository →](https://github.com/egorceredov-crypto/lead-radar-pro)
 
 ---
 
-# 📦 Другие проекты
+# Other Projects
 
-### Barber Shop Automation
+## Barber Shop Automation
 
-Telegram-система автоматизации записи клиентов для барбершопа.
+Telegram-based appointment management system for a barbershop.
 
 **Python · Aiogram 3 · Asyncio · SQLAlchemy · SQLite**
 
-- запись клиентов
-- управление расписанием
-- интерактивный календарь
-- защита от двойной записи
-- уведомления
-- административная панель
+- Customer booking
+- Schedule management
+- Interactive calendar
+- Double-booking protection
+- Notifications
+- Administration panel
 
-[Открыть репозиторий →](https://github.com/egorceredov-crypto/barber-shop-aiogram3)
+[View repository →](https://github.com/egorceredov-crypto/barber-shop-aiogram3)
 
 ---
 
-### PriceMaster
+## PriceMaster
 
-Telegram-бот для сравнения цен на iPhone между магазинами.
+Telegram bot for comparing iPhone prices across different stores.
 
 **Python · Aiogram 3 · BeautifulSoup4 · SQLAlchemy · SQLite**
 
-- поиск товаров
-- сбор данных
-- парсинг магазинов
-- сравнение цен
-- обработка результатов
-- Telegram-интерфейс
+- Product search
+- Data collection
+- Store parsing
+- Price comparison
+- Result processing
+- Telegram interface
 
-[Открыть репозиторий →](https://github.com/egorceredov-crypto/-telegram-cpa-bot)
+[View repository →](https://github.com/egorceredov-crypto/-telegram-cpa-bot)
 
 ---
 
-## Контакты
+## Contact
 
-<div align="center">
+**Telegram:** [@pEgorPython](https://t.me/pEgorPython)
 
-<a href="https://github.com/egorceredov-crypto">
-  <img src="https://img.shields.io/badge/GitHub-egorceredov--crypto-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://t.me/pEgorPython">
-  <img src="https://img.shields.io/badge/Telegram-канал-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-
-</div>
+**GitHub:** [egorceredov-crypto](https://github.com/egorceredov-crypto)
