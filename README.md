@@ -3,10 +3,10 @@
 <h1>Егор Чередов</h1>
 
 <p>
-  Python Developer · Automation · Backend
+  Python Developer · Automation · Backend · SaaS
 </p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Developer;Telegram+Automation;Backend+Development;Building+real+projects" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Developer;Telegram+Automation;Backend+Development;SaaS+Development;Building+real+projects" />
 
 <br><br>
 
@@ -24,11 +24,11 @@
 
 ## О себе
 
-Python-разработчик, занимаюсь автоматизацией и созданием прикладных программных решений.
+Python-разработчик, занимаюсь автоматизацией, backend-разработкой и созданием прикладных программных решений.
 
-Разрабатываю Telegram-ботов, backend-сервисы, парсеры, API-интеграции и web-инструменты.
+Разрабатываю Telegram-ботов, SaaS-сервисы, backend-системы, парсеры, API-интеграции и web-инструменты.
 
-Основной фокус — создание решений, которые автоматизируют реальные процессы и сокращают количество ручной работы.
+Основной фокус — создание реальных продуктов, которые автоматизируют процессы и сокращают количество ручной работы.
 
 ---
 
@@ -51,13 +51,47 @@ Python-разработчик, занимаюсь автоматизацией �
 
 ---
 
-## Проекты
+# 🚀 Главный проект
+
+## Lead Radar PRO
+
+**SaaS-сервис для автоматического поиска потенциальных клиентов в Telegram.**
+
+Lead Radar PRO помогает находить подходящие клиентские запросы по ключевым словам и категориям, автоматически обрабатывать найденные сообщения и получать новые лиды.
+
+**Python · Aiogram 3 · Telethon · FastAPI · SQLAlchemy · SQLite · Docker**
+
+### Возможности
+
+- 🔍 автоматический поиск потенциальных клиентов
+- 🎯 поиск по ключевым словам и категориям
+- 📡 мониторинг Telegram
+- 🤖 автоматическая обработка найденных сообщений
+- 📊 система результатов и истории
+- 🔔 уведомления о новых лидах
+- 💳 система тарифов и подписок
+- 💰 обработка платежей
+- 🎁 реферальная система
+- ⚙️ административная панель
+- 🌐 web-интерфейс
+- 🔐 серверная авторизация Telethon
+- 🐳 подготовка к серверному развёртыванию
+
+### Архитектура
+
+Проект объединяет Telegram Bot API, Telethon Userbot, backend-компоненты, базу данных и web-интерфейс в единую систему.
+
+[Открыть репозиторий →](https://github.com/egorceredov-crypto/lead-radar-pro)
+
+---
+
+# 📦 Другие проекты
 
 ### Barber Shop Automation
 
 Telegram-система автоматизации записи клиентов для барбершопа.
 
-Python · Aiogram 3 · Asyncio · SQLAlchemy · SQLite
+**Python · Aiogram 3 · Asyncio · SQLAlchemy · SQLite**
 
 - запись клиентов
 - управление расписанием
@@ -74,7 +108,7 @@ Python · Aiogram 3 · Asyncio · SQLAlchemy · SQLite
 
 Telegram-бот для сравнения цен на iPhone между магазинами.
 
-Python · Aiogram 3 · BeautifulSoup4 · SQLAlchemy · SQLite
+**Python · Aiogram 3 · BeautifulSoup4 · SQLAlchemy · SQLite**
 
 - поиск товаров
 - сбор данных
